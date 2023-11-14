@@ -1,3 +1,7 @@
 ### Boas vinda ao meu perfil 🍒
 
-meu nome Marya Eduarda Alcantara
+Meu nome Marya Eduarda Alcantara
+
+- Estou estudando alura
+- Estou me desenvolverdo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçao
